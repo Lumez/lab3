@@ -36,6 +36,8 @@
 					<p>We have been voted best car company in the UK by our employees 8 years running. <br/>Boyd's Used Motors has been running for over 13 years selling reliable used cars to the first person to walk in the door.</p>
 					
 					<p>We saw you coming and made a special price just for you! That's the quality service you can expect from our friendly staff.</p>
+				
+					<?php include 'includes/weather.php';?>
 				</div>
 				
 				<!-- sidebar -->

@@ -2,7 +2,7 @@
 $directoryURI = $_SERVER['REQUEST_URI'];
 $path = parse_url($directoryURI, PHP_URL_PATH);
 $components = explode('/', $path);
-$page = $components[4];
+$page = end($components);
 ?>
 <div class="row">
 	<div class="col-md-12">
