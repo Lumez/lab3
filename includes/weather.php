@@ -19,5 +19,4 @@
 	
 	<p><?php print_r('Direction: ' . $data->weather->wind->compass . ', ' . $data->weather->wind->angle); ?>&deg;</p>
 	<p><?php print_r('Speed: ' . $data->weather->wind->speed . 'kph'); ?></p>
-	<pre><?php print_r($data); ?></pre>
 </div>
