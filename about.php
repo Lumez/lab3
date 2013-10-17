@@ -20,16 +20,7 @@
 				<h2 id="motd">A name you can surely trust!</h2>
 				
 				<!-- navigation -->
-				<div class="row">
-					<div class="col-md-12">
-						<ul class="nav nav-tabs">
-							<li><a href="index.php">Home</a></li>
-							<li><a href="finances.php">Finances</a></li>
-							<li class="active"><a href="about.php">About</a></li>
-							<li><a href="contact.php">Contact Us</a></li>
-						</ul>
-					</div>
-				</div>
+				<?php include 'includes/nav.php'; ?>
 				
 			</div><!-- /header -->
 			
