@@ -39,10 +39,10 @@
 				<div class="row">
 					<div class="col-md-12">
 						<ul class="nav nav-tabs">
-							<li><a href="index.html">Home</a></li>
-							<li><a href="finances.html">Finances</a></li>
-							<li class="active"><a href="about.html">About</a></li>
-							<li><a href="contact.html">Contact Us</a></li>
+							<li><a href="index.php">Home</a></li>
+							<li><a href="finances.php">Finances</a></li>
+							<li><a href="about.php">About</a></li>
+							<li class="active"><a href="contact.php">Contact Us</a></li>
 						</ul>
 					</div>
 				</div>
@@ -53,17 +53,18 @@
 			<!-- main content -->
 			<div id="content" class="row">
 				
-				<h2>About Boyd's Used Motors</h2>
+				<h2>Contact Us</h2>
 				
-				<p>Boyd's Used Motors started almost 10 years ago when Boyd found a rusty car in a ditch. He managed to sell it for a sandwich, although, he would have accepted a hard roll with ketchup.
-				</p>
+				<p>Want to visit us or send us hate mail? Our address is below.</p>
 				
-				<p>It was at this point that Boyd knew he had a flair for selling used cars to anyone that walked through his door.</p>
-				
-				<p>Over the years Boyd's car empire has grown from the ditch where he found his first car to the abandoned petrol station just down the road. He has sold many, many cars in his career. Too many for him to count.</p>
-				
-				<p>What awaits this visionary entrepreneur in the future? We will see.</p>
-				
+				<div class="address col-md-offset-1">
+					<p>Boyd's Used Motors</p>
+					<p>Old Petrol Station</p>
+					<p>Hill Lane</p>
+					<p>Hampshire</p>
+					<p>SO17 1BM</p>
+				</div>
+				<p>We are open every day whenever Boyd has managed to get out of bed.</p>
 				
 			</div><!-- /main content -->
 			

@@ -39,10 +39,10 @@
 				<div class="row">
 					<div class="col-md-12">
 						<ul class="nav nav-tabs">
-							<li><a href="index.html">Home</a></li>
-							<li class="active"><a href="finances.html">Finances</a></li>
-							<li><a href="about.html">About</a></li>
-							<li><a href="contact.html">Contact Us</a></li>
+							<li><a href="index.php">Home</a></li>
+							<li class="active"><a href="finances.php">Finances</a></li>
+							<li><a href="about.php">About</a></li>
+							<li><a href="contact.php">Contact Us</a></li>
 						</ul>
 					</div>
 				</div>
